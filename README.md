@@ -10,7 +10,6 @@ You can also find more about me on [LinkedIn](https://www.linkedin.com/in/zhu-wa
 
 Thank you for visiting my GitHub profile! If you have any questions or suggestions regarding my projects or internship opportunities, feel free to reach out to me. I'm looking forward to connecting and collaborating with you!
 
-If there's anything else you would like to add or modify, please let me know, and I'll be happy to assist you in optimizing your GitHub profile!
 
 
 <!--
