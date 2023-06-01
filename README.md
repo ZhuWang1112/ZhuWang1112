@@ -8,8 +8,6 @@ I'm a student at Northeastern University, expected to graduate in spring/summer 
 
 You can also find more about me on [LinkedIn](https://www.linkedin.com/in/zhu-wang-b11936150/).
 
-Thank you for visiting my GitHub profile! If you have any questions or suggestions regarding my projects or internship opportunities, feel free to reach out to me. I'm looking forward to connecting and collaborating with you!
-
 
 
 <!--
